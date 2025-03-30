@@ -1,12 +1,84 @@
-# React + Vite
+# 🌦 Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Weather App built with React that provides real-time weather updates for any location worldwide. 🌍
+<br>
 
-Currently, two official plugins are available:
+## 🌍 Live Demo  
+[🔗 Live Demo](#) 
+<br>
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🌡 Fetches real-time weather data using an API.
+- ☁ Displays temperature, humidity, wind speed, and weather conditions.
+- 📱 User-friendly interface with responsive design.
+- 🔎 Search functionality to check the weather for different locations.
+- ⚛ Built using React for a dynamic and smooth user experience.
+<br>
 
-## Expanding the ESLint configuration
+## 🛠 Technologies Used
+- ⚛ React.js
+- 🏗 HTML
+- 🎨 CSS
+- 💻 JavaScript
+- 🌐 Weather API (OpenWeatherMap or similar)
+<br>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Folder Structure  
+
+- *Weather App/*  
+  - 📄 index.html → Main HTML file 
+  - 📁 *src/*  
+    - 📄 App.jsx → Main React component  
+    - 📄 InfoBox.jsx → Displays weather information  
+    - 📄 InfoBox.css → Styles for InfoBox  
+    - 📄 SearchBox.jsx → Handles user input  
+    - 📄 SearchBox.css → Styles for SearchBox  
+    - 📄 WeatherApp.jsx → Core weather logic  
+    - 📄 main.jsx → Entry point  
+  - 📄 package.json → Project dependencies  
+<br>
+
+## 🚀 Installation
+1. Clone the repository:
+   sh
+   git clone https://github.com/your-username/weather-app.git
+    
+2. Navigate to the project directory:
+   sh
+   cd weather-app
+    
+3. Install dependencies:
+   sh
+   npm install
+    
+4. Start the development server:
+   sh
+   npm run dev
+    
+5. Open the provided local URL in your browser.
+<br>
+
+## 📌 Usage  
+- Enter a city name in the search bar and press enter. 🏙  
+- View the current weather details for the selected location. 🌞   
+<br>
+
+## 📸 Screenshots  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88ae2b2d-ed7a-4fb7-86a0-627ceaaceec2" alt="Screenshot" width="400"/>
+</p>
+<br>
+
+## 📬 Contact  
+📧 *Email:* therealviveksharma@gmail.com  
+🐙 *GitHub:* https://github.com/VIVEKSHARMA06  
+
+<br>
+
+## 🎉 Thank You!  
+🚀 We appreciate your interest in this project!  
+🌟 If you like it, consider giving it a *star* on GitHub.  
+💡 Suggestions, feedback, and improvements are always welcome!  
+<br>
+Happy coding! 😊
