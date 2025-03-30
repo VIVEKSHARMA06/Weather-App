@@ -2,6 +2,7 @@
 
 A simple and interactive Weather App built with React that provides real-time weather updates for any location worldwide. 🌍
 <br>
+<br>
 
 ## 🌍 Live Demo  
 https://weather-app-04uc.onrender.com
@@ -24,38 +25,27 @@ https://weather-app-04uc.onrender.com
 - 🌐 Weather API (OpenWeatherMap or similar)
 <br>
 
-## 📂 Folder Structure  
-
-- *Weather App/*  
-  - 📄 index.html → Main HTML file 
-  - 📁 *src/*  
-    - 📄 App.jsx → Main React component  
-    - 📄 InfoBox.jsx → Displays weather information  
-    - 📄 InfoBox.css → Styles for InfoBox  
-    - 📄 SearchBox.jsx → Handles user input  
-    - 📄 SearchBox.css → Styles for SearchBox  
-    - 📄 WeatherApp.jsx → Core weather logic  
-    - 📄 main.jsx → Entry point  
-  - 📄 package.json → Project dependencies  
-<br>
-
 ## 🚀 Installation
 1. Clone the repository:
-   sh
+   ```sh
    git clone https://github.com/your-username/weather-app.git
-    
+    ```
+   
 2. Navigate to the project directory:
-   sh
+   ```sh
    cd weather-app
-    
+    ```
+   
 3. Install dependencies:
-   sh
+   ```sh
    npm install
-    
+    ```
+   
 4. Start the development server:
-   sh
+   ```sh
    npm run dev
-    
+    ```
+   
 5. Open the provided local URL in your browser.
 <br>
 
